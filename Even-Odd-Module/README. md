@@ -1,0 +1,17 @@
+Even Odd Module Project
+
+Checks whether a number is even or odd using a user-defined module.
+
+Concepts Used:
+- Functions
+- User-Defined Modules
+- Import Statement
+- If-Else
+
+Files:
+1. evenodd.py
+2. main.py
+
+Sample Output:
+Enter a number: 8
+Even
