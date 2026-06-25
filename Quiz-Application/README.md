@@ -23,4 +23,5 @@ How It Works:
 4.The score is updated if the answer is correct.
 5.After all questions are completed, the final score is displayed.
 
-Learning Outcome This project helps beginners understand Python fundamentals and improve problem-solving skills by building an interactive command-line application.
+Learning Outcome:
+This project helps beginners understand Python fundamentals and improve problem-solving skills by building an interactive command-line application.
