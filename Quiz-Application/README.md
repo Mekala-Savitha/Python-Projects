@@ -7,7 +7,8 @@ It helps beginners practice Python concepts such as conditions, and user input h
 Features: 
 • Displays multiple-choice questions. • Accepts user answers.
 • Checks whether the answer is correct or incorrect.
-• Calculates the total score. • Shows the final result after all questions are completed. 
+• Calculates the total score. 
+• Shows the final result after all questions are completed. 
 • Easy to customize by adding new questions.
 
 Concepts Used:
