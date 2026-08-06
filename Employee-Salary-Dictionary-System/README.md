@@ -8,12 +8,7 @@ A Python project that manages employee salary records using a dictionary. It all
 - Search employee salary
 - Update employee salary
 - Delete employee records
-- Check employee existence
-- Display highest and lowest salary
-- Calculate average salary
-- Display employees with salary above a specified amount
-- Sort employees by name
-- Sort employees by salary
+- Display final dictionary 
 
 ## Concepts Used
 - Python Dictionary
